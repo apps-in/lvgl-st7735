@@ -1,0 +1,8 @@
+version: "1.0.0"
+description: "LVGL driver for ST-7735 displays"
+url: "https://github.com/apps-in/lvgl-st7735"
+dependencies:
+  lvgl/lvgl: "^8.*"
+  idf: "^5.0"
+files:
+  use_gitignore: true
